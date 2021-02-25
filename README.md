@@ -1,2 +1,0 @@
-# CTS
-Software Quality labs
