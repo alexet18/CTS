@@ -24,7 +24,6 @@ public class Container {
 			return (T)  map.get(contract).getConstructor().newInstance() ;
 		} catch (InstantiationException | IllegalAccessException | IllegalArgumentException | InvocationTargetException
 				| NoSuchMethodException | SecurityException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		return null;
