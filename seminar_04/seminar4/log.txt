@@ -1,0 +1,25 @@
+Thu Mar 18 13:48:39 EET 2021 Main ended seminar_04
+Thu Mar 18 13:50:12 EET 2021 Main ended seminar_04
+Thu Mar 18 13:52:15 EET 2021 GUI oppened
+Thu Mar 18 13:52:22 EET 2021 Main ended seminar_04
+Thu Mar 18 13:59:12 EET 2021 GUI singleton
+Thu Mar 18 13:59:53 EET 2021 GUI singleton
+Thu Mar 18 14:00:18 EET 2021 Main singleton
+Thu Mar 18 14:04:53 EET 2021 Main singleton
+Thu Mar 18 14:05:30 EET 2021 Main singleton
+Thu Mar 18 14:05:33 EET 2021 Main singleton
+Thu Mar 18 14:05:55 EET 2021 Main singleton
+Thu Mar 18 14:05:59 EET 2021 Main singleton
+Thu Mar 18 14:11:58 EET 2021 Enum
+Thu Mar 18 14:12:20 EET 2021 GUI singleton
+Thu Mar 18 14:12:20 EET 2021 Enum
+Thu Mar 18 14:12:27 EET 2021 Main singleton
+Thu Mar 18 14:17:18 EET 2021 GUI singleton
+Thu Mar 18 14:17:18 EET 2021 Enum
+Thu Mar 18 14:17:18 EET 2021 test
+Thu Mar 18 14:20:44 EET 2021 GUI singleton
+Thu Mar 18 14:20:44 EET 2021 Enum
+Thu Mar 18 14:20:44 EET 2021 test
+Thu Mar 18 14:41:06 EET 2021 Main singleton
+Thu Mar 18 14:42:02 EET 2021 Main singleton
+Thu Mar 18 14:49:36 EET 2021 Main singleton
